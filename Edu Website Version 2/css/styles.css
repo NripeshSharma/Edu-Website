@@ -1,0 +1,91 @@
+.btn{
+background: #FFD708;
+border-radius: 50px;
+}
+
+#text_donate{
+    font-family: Jost;
+    color: white;
+}
+
+nav{
+    background-color: #13A699;
+    /* border-radius: 0px 148px 0px 0px; */
+    /* padding: 10%; */
+    /* align-content: flex-end; */
+    /* align-self: flex-end; */
+}
+
+/* .nav-text{
+    font-family: jost;
+    font-size: 34%;
+} */
+.navbar-nav{
+    /* padding-left: 50px; */
+    padding-right: 7%;
+}
+.nav-link{
+    margin-left: 30px;
+    font-family: 'Jost', sans-serif;
+    font-size: 125%;
+}
+
+.dropdown-menu{
+    background-color: #13A699;
+    border: 0;
+}
+
+.dropdown-item{
+    color: white;
+    /* margin-right: 100%; */
+}
+
+.content{
+    width: 100%;
+    height: 2000px;
+}
+
+
+
+
+/* Banner */
+#banner{
+    background-color: #13A699;
+    border: 0px;
+    /* height: 200px; */
+    color: white;
+}
+/*
+
+
+position: absolute;
+width: 162px;
+height: 41px;
+left: 1123px;
+top: 51px;
+
+font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 40px;
+
+text-align: center;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+Rectangle 2
+
+position: absolute;
+width: 193px;
+height: 41px;
+left: 1108px;
+top: 51px;
+
+background: #FFD708;
+border-radius: 50px;
+
+
+*/
